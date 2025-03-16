@@ -1,0 +1,8 @@
+tests/ProfileTest.class
+tests/LoginTest.class
+pages/HomePage.class
+utils/BaseTest.class
+pages/ProfilePage.class
+pages/LoginPage.class
+com/automation/AppTest.class
+tests/HomeTest.class
